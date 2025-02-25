@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Ale\\Bootcamp\\AstralAirlinesAPI\\AstralAirlinesAPI\\AstralAirlinesAPI.csproj": {}
+    "C:\\Ale\\Bootcamp\\AstralAirlines\\AstralAirlinesAPI\\AstralAirlinesAPI\\AstralAirlinesAPI.csproj": {}
   },
   "projects": {
-    "C:\\Ale\\Bootcamp\\AstralAirlinesAPI\\AstralAirlinesAPI\\AstralAirlinesAPI.csproj": {
+    "C:\\Ale\\Bootcamp\\AstralAirlines\\AstralAirlinesAPI\\AstralAirlinesAPI\\AstralAirlinesAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Ale\\Bootcamp\\AstralAirlinesAPI\\AstralAirlinesAPI\\AstralAirlinesAPI.csproj",
+        "projectUniqueName": "C:\\Ale\\Bootcamp\\AstralAirlines\\AstralAirlinesAPI\\AstralAirlinesAPI\\AstralAirlinesAPI.csproj",
         "projectName": "AstralAirlinesAPI",
-        "projectPath": "C:\\Ale\\Bootcamp\\AstralAirlinesAPI\\AstralAirlinesAPI\\AstralAirlinesAPI.csproj",
+        "projectPath": "C:\\Ale\\Bootcamp\\AstralAirlines\\AstralAirlinesAPI\\AstralAirlinesAPI\\AstralAirlinesAPI.csproj",
         "packagesPath": "C:\\Users\\Ale-PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Ale\\Bootcamp\\AstralAirlinesAPI\\AstralAirlinesAPI\\obj\\",
+        "outputPath": "C:\\Ale\\Bootcamp\\AstralAirlines\\AstralAirlinesAPI\\AstralAirlinesAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

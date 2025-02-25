@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "duotZmVTGqKuJuqmIgbEYKq+4xn3vju+d2YbzZr3yMes4A177A8lkoFxB7hLsmBRaq8e7+VaWuLo10LHjmz5Gw==",
+  "dgSpecHash": "gbQpC0XJxx+J4je0erMYullqqT0CwEqsskZRPCpDcwZUnR4XyF+ThNzFrg/LsKg5jz5mDE/rxj7lNxnRKeINug==",
   "success": true,
-  "projectFilePath": "C:\\Ale\\Bootcamp\\AstralAirlinesAPI\\AstralAirlinesAPI\\AstralAirlinesAPI.csproj",
+  "projectFilePath": "C:\\Ale\\Bootcamp\\AstralAirlines\\AstralAirlinesAPI\\AstralAirlinesAPI\\AstralAirlinesAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ale-PC\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Ale-PC\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
