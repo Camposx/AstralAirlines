@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "85nx9jWx6r7nYjAAiTCtXLe5XIBOmlseYH3qmY9OgsI=",
+  "Source": "AstralAirlinesAPI",
+  "BasePath": "_content/AstralAirlinesAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

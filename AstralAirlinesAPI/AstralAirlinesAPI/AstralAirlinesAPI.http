@@ -1,0 +1,6 @@
+@AstralAirlinesAPI_HostAddress = http://localhost:5230
+
+GET {{AstralAirlinesAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
